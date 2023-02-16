@@ -27,4 +27,4 @@ npm run build
 ```
 
 Here's the screenshot:
-![Sidebar]([https://github.com/mrdanishsaleem/sidebarhoc/blob/main/screenshots/sidebar.png])
+![Sidebar](https://github.com/mrdanishsaleem/sidebarhoc/blob/main/screenshots/sidebar.png)
